@@ -1,2 +1,2 @@
-# Valyunchik
-Happy 35, Valyunchik
+# Birthday Telegram Bot
+Автоматически отправляет поздравления и комплименты в Telegram.
